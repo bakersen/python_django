@@ -1,2 +1,2 @@
 # python_django
-Setting up a Python Django project
+Learning Django Framework. Project built with Django Framework.
